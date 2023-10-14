@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\chang\Q4 Project\Textbook Management.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\chang\Q4 Project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-19
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Version string: 1.019.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "C:\Users\chang\Q4 Project\Textbook Management.exe"
+Args length:	56/32768 chars
+Exit code:	0
